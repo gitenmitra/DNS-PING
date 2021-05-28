@@ -1,3 +1,7 @@
+#@author: Giten Mitra
+#Date: 21 May 2021
+#Description: This script will alert to user if DNS is down and website is not working.
+
 import json
 import urllib.request
 import logging
