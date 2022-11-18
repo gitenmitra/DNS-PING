@@ -1,5 +1,5 @@
 #@author: Giten Mitra
-#Date: 21 May 2021
+#Date: 21 May 2022
 #Description: This script will alert to user if DNS is down and website is not working.
 
 import json
