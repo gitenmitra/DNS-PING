@@ -1,4 +1,4 @@
-# DNS-PING
+# DNS-PING  
 Way to find out if DNS is down or your instance
 <br><br>
 <b>Problem:</B> At times it happens that DNS provider services of a website URL is down and so to reduce response time by not diagnosing the infrastructure and informing the user to check with DNS provider.
